@@ -1,2 +1,2 @@
 # Heading
-This is heading.
+This is a main heading.
